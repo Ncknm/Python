@@ -50,7 +50,7 @@ for line in data:
 data.close()
 
 list_numbers = []
-n = int(input())
+n = int(input('Введите число N: '))
 for i in range(-n, n + 1):
     list_numbers.append(i)
 print(list_numbers)
