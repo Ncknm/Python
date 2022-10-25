@@ -1,4 +1,4 @@
-# Homework 3
+# Homework 4
 from random import randint
 import itertools
 import math
